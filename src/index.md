@@ -64,3 +64,10 @@ Data geladen:
 
   <input type="submit" value="verstuur">
 </form>
+
+
+<details>
+<summary>open me</summary>
+    this is hidden for now
+</details>
+
