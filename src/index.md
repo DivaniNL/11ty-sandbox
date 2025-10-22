@@ -17,6 +17,7 @@ Handmatig ingevoerd in markdown
 
 
 Data geladen:
+
 <img src="{{ catpic }}" width="200" height="200" alt="Dylan">
 
 
