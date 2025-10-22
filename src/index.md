@@ -15,6 +15,7 @@ Handmatig ingevoerd in markdown
 
 <img src="https://github.com/user-attachments/assets/51415367-c1f5-42bf-8980-e83647f9c667" width="200" height="200" alt="Logo AD FDND">
 
+
 Data geladen:
 <img src="{{ catpic }}" width="200" height="200" alt="Dylan">
 
