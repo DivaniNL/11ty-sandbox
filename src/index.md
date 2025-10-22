@@ -11,4 +11,55 @@
 
 ## Avatar
 
-<img src="{{ catpic }}" />
+Handmatig ingevoerd in markdown
+
+![FDND]("https://avatars.githubusercontent.com/u/50839234?s=280&v=4")
+
+Data geladen:
+
+![Dylan]({{ catpic }})
+
+<form action="" method="post">
+  <fieldset>
+    <label for="one">one</label>
+    <input type="text" name="one" id="one">
+  </fieldset>
+
+  <fieldset>
+    <label for="two">two</label>
+    <input type="number" name="two" id="two">
+  </fieldset>
+
+  <fieldset>
+    <label for="three">three</label>
+    <input type="date" name="three" id="three">
+  </fieldset>
+
+  <fieldset>
+    <legend>Four</legend>
+    <label for="four-1">
+      <input type="radio" name="four" id="four-1" value="1"> Option 1
+    </label>
+    <label for="four-2">
+      <input type="radio" name="four" id="four-2" value="2"> Option 2
+    </label>
+    <label for="four-3">
+      <input type="radio" name="four" id="four-3" value="3"> Option 3
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Five</legend>
+    <label for="five-1">
+      <input type="checkbox" name="five" id="five-1" value="1"> Option 1
+    </label>
+    <label for="five-2">
+      <input type="checkbox" name="five" id="five-2" value="2"> Option 2
+    </label>
+    <label for="five-3">
+      <input type="checkbox" name="five" id="five-3" value="3"> Option 3
+    </label>
+  </fieldset>
+
+  <input type="submit" value="verstuur">
+</form>
