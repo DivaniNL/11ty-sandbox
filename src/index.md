@@ -69,6 +69,6 @@ Data geladen:
 <details>
 <summary>open me</summary>
     this is hidden for now
-    `<button> klik me</button>`
+    <button> klik me</button>
 </details>
 
