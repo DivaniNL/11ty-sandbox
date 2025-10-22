@@ -13,7 +13,8 @@
 
 Handmatig ingevoerd in markdown
 
-![FDND]("https://avatars.githubusercontent.com/u/50839234?s=280&v=4")
+![50839234](https://github.com/user-attachments/assets/51415367-c1f5-42bf-8980-e83647f9c667)
+
 
 Data geladen:
 
